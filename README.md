@@ -28,6 +28,11 @@ Below are links to resources that seem relevant to audio analysis and bioacousti
 - [SmartEars](https://data.mendeley.com/datasets/dy6gtvt4mk/1)
     - DOI: 10.17632/dy6gtvt4mk.1 
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12251831/
+## Datasets
+
+
+
 ### Video/Images
 
 - [ChickenVerse](https://github.com/amirivojdan/ChickenVerse)
