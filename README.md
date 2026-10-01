@@ -27,8 +27,7 @@ Below are links to resources that seem relevant to audio analysis and bioacousti
     - DOI: 10.17632/zp4nf2dxbh.1
 - [SmartEars](https://data.mendeley.com/datasets/dy6gtvt4mk/1)
     - DOI: 10.17632/dy6gtvt4mk.1 
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12251831/
+-[Audio Dataset](https://zenodo.org/records/10433023)
 ## Datasets
 
 
